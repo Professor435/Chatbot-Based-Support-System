@@ -106,3 +106,5 @@ Built with modern AI/ML practices from Clarity and IBM research
 Sentiment analysis models inspired by 2026 customer support trends
 UI/UX patterns based on industry best practices from leading support platforms
 SupportAI — Transforming customer support through intelligent automation. Available 24/7, in 50+ languages, with the empathy of a human and the speed of AI.
+
+For more amazing apps and websites or final year projects contact us(professorshami435@gmail.com)
