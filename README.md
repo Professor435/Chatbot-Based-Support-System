@@ -14,11 +14,6 @@ A production-ready, AI-powered customer support chatbot system featuring real-ti
 📊 Advanced Analytics — Real-time dashboards for CSAT, resolution rates, sentiment trends, deflection rates, and agent performance metrics.
 ⚡ High-Volume Scaling — Handles sudden traffic spikes with zero downtime. Auto-scales during peak hours and seasonal surges.
 🚀 Quick Start
-bash
-Copy
-# Clone the repository
-git clone https://github.com/support-ai/chatbot-system.git
-cd chatbot-system
 
 # Install dependencies
 npm install
