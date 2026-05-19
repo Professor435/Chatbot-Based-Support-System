@@ -4,7 +4,7 @@ SupportAI - Intelligent Customer Support Chatbot Platform
 https://opensource.org/licenses/MIT
 https://nodejs.org
 https://www.typescriptlang.org
-https://docker.com
+https://docker.com 
 A production-ready, AI-powered customer support chatbot system featuring real-time sentiment analysis, omnichannel support, seamless human handoffs, and enterprise-grade security.
 ✨ Key Features
 🧠 AI-Powered Conversations — Advanced NLP with 85%+ intent recognition accuracy using transformer models. Handles complex multi-turn conversations with full context awareness.
