@@ -2,7 +2,7 @@
 
 SupportAI - Intelligent Customer Support Chatbot Platform 
 
-A production-ready, AI-powered customer support chatbot system featuring real-time sentiment analysis, omnichannel support, seamless human handoffs, and enterprise-grade security.
+A production-ready, AI-powered customer support chatbot system featuring real-time sentiment analysis, omnichannel support, seamless human handoffs, and enterprise-grade security. 
 ✨ Key Features
 🧠 AI-Powered Conversations — Advanced NLP with 85%+ intent recognition accuracy using transformer models. Handles complex multi-turn conversations with full context awareness.
 💓 Real-time Sentiment Analysis — Detects customer emotions (frustration, confusion, satisfaction) and dynamically adjusts tone or escalates to human agents automatically.
